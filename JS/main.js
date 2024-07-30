@@ -160,8 +160,44 @@ const Values = [
         autor: 'Desconocido'
       },
       {
-        cita: 'Yo, que nada valgo, llamé a dios, y él me oyó, y me salvó de todas mis angustias',
-        autor: 'Salmos 34:6 TLA'
+        cita: 'El timepo es el mejor maestro, pero va matando a sus discipulos',
+        autor: 'BERLIOZ'
+      },
+      {
+        cita: 'El cuerpo humano es el carruaje; el yo, el hombre que lo conduce; el pensamiento son las riendas, y los sentimientos los caballos',
+        autor: 'desconocido'
+      },
+      {
+        cita: 'En el abismo de la desesperacion, encontraras la fuerza para renacer. la oscuridad es el crisol donde la verdadera luz se forja',
+        autor: 'Fyodor Dostoevsky'
+      },
+      {
+        cita: 'Necesitaras tantas tumbas como para enterrar todo lo que ha muerto dentro de ti',
+        autor: 'desconocido'
+      },
+      {
+        cita: 'El deseo de conocer tu propia alma acabra con todos los demas deseos',
+        autor: 'desconocido'
+      },
+      {
+        cita: 'Todo hombre que conozco es superior a mi en algun sentido. En ese sentido, aprendo de el',
+        autor: 'Ralph Waldo Emerson'
+      },
+      {
+        cita: 'You will not be punished for your anger, you will be punished by your anger',
+        autor: 'Buddha'
+      },
+      {
+        cita: 'Quien tiene paz de espiritu no se perturba ni a si mismo ni a otro',
+        autor: 'Desconocido'
+      },
+      {
+        cita: 'Stop overthinking. if it´s god´s will, it will happen and nothing will stop it. if it´s not, god has a better plan. have peace knowing this ',
+        autor: 'Proverbios 16:9'
+      },
+      {
+        cita: 'The world will ask you who you are, and if you do not know, the world will tell you',
+        autor: 'Carl jung'
       },
 ]
 
