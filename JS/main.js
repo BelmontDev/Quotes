@@ -199,6 +199,66 @@ const Values = [
         cita: 'The world will ask you who you are, and if you do not know, the world will tell you',
         autor: 'Carl jung'
       },
+      {
+        cita: 'El Poder de la palabra radica en su capacidad para inspirar, motivar y transformar realidades',
+        autor: 'Desconocido'
+      },
+      {
+        cita: 'El Buscador debe sumergirse por completo en la corriente de la magia y, a su vez, la magia se fundira por completo en el.',
+        autor: 'andrew chumbley'
+      },
+      {
+        cita: 'Cuando debemos hacer una eleccion, y no lo hacemos, esto ya es una eleccion',
+        autor: 'william james'
+      },
+      {
+        cita: 'la vida no se trata de encontrarse a uno mismo, sino de crearse a uno mismo',
+        autor: 'Desconocido'
+      },
+      {
+        cita: 'Dont´t set yourself on fire to keep others warm',
+        autor: 'Unknown'
+      },
+      {
+        cita: 'Might Fuck around and accept the things i can´t control today',
+        autor: 'Unknown'
+      },
+      {
+        cita: 'El tiempo que disfrutaste no fue tiempo perdido',
+        autor: 'Desconocido'
+      },
+      {
+        cita: 'Se una buena persona, no pierdas tiempo tratando de demostrarlo',
+        autor: 'Desconocido'
+      },
+      {
+        cita: 'Your new life will cost you your old one',
+        autor: 'Unknown'
+      },
+      {
+        cita: 'en este mundo atroz, la bondad es una virtud rara',
+        autor: 'berserk'
+      },
+      {
+        cita: 'el arbol que quiera crecer hasta el cielo debera enviar sus raices al infierno',
+        autor: 'Carl Jung'
+      },
+      {
+        cita: 'el observador, el arquitecto del sueño. No es nadie mas que uno mismo. afuera del juego de la vida donde el protagonista eres tu, experimentando ser',
+        autor: 'Desconocido'
+      },
+      {
+        cita: 'Que este tomando tiempo no significa que no va a funcionar',
+        autor: 'Desconocido'
+      },
+      {
+        cita: 'solo un hombre que a sentido la maxima desesperacion es capaz de sentir la maxima felicidad. es necesario haber deseado morir para saber lo bueno que es vivir',
+        autor: 'Alejandro Dumas'
+      },
+      {
+        cita: 'las recetas rapidas no funcionan. todo cambio duradero requiere timepo y esfuerzo. la preseverancia es la madre del cambio personal',
+        autor: 'Desconocido'
+      },
 ]
 
 
