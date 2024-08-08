@@ -161,7 +161,7 @@ const Values = [
       },
       {
         cita: 'El timepo es el mejor maestro, pero va matando a sus discipulos',
-        autor: 'BERLIOZ'
+        autor: 'Berlioz'
       },
       {
         cita: 'El cuerpo humano es el carruaje; el yo, el hombre que lo conduce; el pensamiento son las riendas, y los sentimientos los caballos',
@@ -192,7 +192,7 @@ const Values = [
         autor: 'Desconocido'
       },
       {
-        cita: 'Stop overthinking. if it´s god´s will, it will happen and nothing will stop it. if it´s not, god has a better plan. have peace knowing this ',
+        cita: "Stop overthinking. if it's god's will, it will happen and nothing will stop it. if it's not, god has a better plan. have peace knowing this ",
         autor: 'Proverbios 16:9'
       },
       {
