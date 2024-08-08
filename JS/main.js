@@ -303,6 +303,26 @@ const Values = [
         cita: "if you pass the same tree in the forest twice, you're lost",
         autor: 'Unknown'
       },
+      {
+        cita: 'cuando no pueden tocar a quien te has convertido, tratan de desenterrar a quien solias ser ',
+        autor: 'Desconocido'
+      },
+      {
+        cita: 'fisicamente puedes encajar con cualquier persona, pero el alma no sonrie ni vibra con cualquiera',
+        autor: 'Desconocido'
+      },
+      {
+        cita: 'el punto de la vida no es centrarse en lo complicado, sino en encontrar algo simple que pueda llenar tu corazon quitando toda incertidumbre',
+        autor: 'Desconocido'
+      },
+      {
+        cita: 'the heart of man plans his way, but the lord establishes his steps',
+        autor: 'proverbs 16:9'
+      },
+      {
+        cita: "life is to short to spend it at war with yourself",
+        autor: 'Unknown'
+      },
 ]
 
 
