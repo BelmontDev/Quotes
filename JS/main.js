@@ -259,6 +259,50 @@ const Values = [
         cita: 'las recetas rapidas no funcionan. todo cambio duradero requiere timepo y esfuerzo. la preseverancia es la madre del cambio personal',
         autor: 'Desconocido'
       },
+      {
+        cita: 'i do not understand what i do. for what i want to do i do not do, but what i hate i do',
+        autor: 'romans 7:15'
+      },
+      {
+        cita: 'Cada mentira se convierte en una deuda con la verdad, la cual tarde o temprano se paga',
+        autor: 'Desconocido'
+      },
+      {
+        cita: 'Primero descubre quien quieres ser y luego haz lo que debes hacer',
+        autor: 'epicteto'
+      },
+      {
+        cita: 'No tomes decisiones permanentes a causa de emociones temporales',
+        autor: 'seneca'
+      },
+      {
+        cita: 'su obsesion por la perfeccion fisica lo llevo al gimnasio todos los dias, pero su soledad crecio con cada musculo que ganaba ',
+        autor: 'Desconocido'
+      },
+      {
+        cita: 'la adversidad tiene el don de despertar talentos que en la prosperidad hubieran permanecido dormidos',
+        autor: 'horacio'
+      },
+      {
+        cita: "Worrying doesn't take away tomorrows troubles, it takes away today's peace",
+        autor: 'Unknown'
+      },
+      {
+        cita: 'hasta que el inconsciente no se haga consciente, el subconsciente dirigira tu vida y le llamaras destino',
+        autor: 'carl gustav jung'
+      },
+      {
+        cita: 'El unico verdadero viaje de descubrimiento consiste en no buscar nuevos paisajes, sino en mirar con nuevos ojos',
+        autor: 'marcel proust'
+      },
+      {
+        cita: 'Si usted me conoce basado a lo que yo era hace un año, usted ya no me conoce, mi evolucion es constante. permitame presentarme de nuevo',
+        autor: 'oscar wilde'
+      },
+      {
+        cita: "if you pass the same tree in the forest twice, you're lost",
+        autor: 'Unknown'
+      },
 ]
 
 
