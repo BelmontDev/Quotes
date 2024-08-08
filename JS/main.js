@@ -21,7 +21,7 @@ const Values = [
       },
       {
         cita: 'Your Direction is of much grater importance than your Speed',
-        autor: 'Desconocido'
+        autor: 'Unknown'
       },
       {
         cita: 'Ser bello significa ser uno mismo. No necesitas ser aceptado por los demas, necesitas aceptarte a ti mismo',
@@ -37,7 +37,7 @@ const Values = [
       },
       {
         cita: 'A man sees in the world what he carries in his heart',
-        autor: 'Desconocido'
+        autor: 'Unknown'
       },
       {
         cita: 'No hay mejor medicina que tener pensamientos alegres, cuando se pierde el animo, todo el cuerpo se enferma',
@@ -73,7 +73,7 @@ const Values = [
       },
       {
         cita: 'Even if the skies were shorter than my knees, I would not kneel',
-        autor: 'Desconocido'
+        autor: 'Unknown'
       },
       {
         cita: 'Y asi en la tristeza de la separacion se esconde la esperanza de un reencuentro. Pues aunque los caminos se hayan bifurcado, el amor verdadero nunca se desvanece por completo',
@@ -85,7 +85,7 @@ const Values = [
       },
       {
         cita: 'You Only Suffer as long as you decide to',
-        autor: 'Desconocido'
+        autor: 'Unknown'
       },
       {
         cita: 'Tu Realidad es creada por tu mente, aprende a controlarla y cambia tu realidad',
@@ -105,11 +105,11 @@ const Values = [
       },
       {
         cita: 'Be Patient and tough someday this pain will be useful to you',
-        autor: 'Desconocido'
+        autor: 'Unknown'
       },
       {
         cita: 'Maybe You dont exist in the future you are worrying about',
-        autor: 'Desconocido'
+        autor: 'Unknown'
       },
       {
         cita: 'I found Rome a city of bricks and left in a city of marble',
@@ -125,7 +125,7 @@ const Values = [
       },
       {
         cita: 'Never underestimate the influence of the human spirit. We are all the same in this notion: The potential for greatness lives within each of us',
-        autor: 'Desconocido'
+        autor: 'Unknown'
       },
       {
         cita: 'Sólamente dentro del contexto de haber desarrollado adecuadamente tu mente serás capaz de realmente disfrutar del logro de tus valores materiales, incluido el de un cuerpo más muscular',
@@ -193,7 +193,7 @@ const Values = [
       },
       {
         cita: "Stop overthinking. if it's god's will, it will happen and nothing will stop it. if it's not, god has a better plan. have peace knowing this ",
-        autor: 'Proverbios 16:9'
+        autor: 'Proverbs 16:9'
       },
       {
         cita: 'The world will ask you who you are, and if you do not know, the world will tell you',
@@ -216,11 +216,11 @@ const Values = [
         autor: 'Desconocido'
       },
       {
-        cita: 'Dont´t set yourself on fire to keep others warm',
+        cita: "Dont't set yourself on fire to keep others warm",
         autor: 'Unknown'
       },
       {
-        cita: 'Might Fuck around and accept the things i can´t control today',
+        cita: "Might Fuck around and accept the things i can't control today",
         autor: 'Unknown'
       },
       {
